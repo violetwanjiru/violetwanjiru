@@ -25,10 +25,11 @@ Before Enzi Motors, I spent three years doing freelance analysis on Upwork. My c
 
 ## Stack
 
-- **Data and SQL:** PostgreSQL, MySQL, Metabase
+- **Data and SQL:** PostgreSQL, MySQL, Snowflake, Metabase
 - **Python:** Pandas, NumPy, scikit-learn
 - **BI:** Power BI, Tableau
 - **Spreadsheets:** Excel, Google Sheets
+- **Version control:** Git, GitHub
 - **Documentation:** metric definitions, data dictionaries, assumption logs
 
 ## Selected results
@@ -40,7 +41,6 @@ Before Enzi Motors, I spent three years doing freelance analysis on Upwork. My c
 
 - Email: violetwanjiru4@gmail.com
 - LinkedIn: [linkedin.com/in/violet-mutuku](https://www.linkedin.com/in/violet-mutuku/)
----
 
 
 
