@@ -1,56 +1,45 @@
-# Hi, I'm Violet Mutuku 👋
+# Violet Mutuku
 
-**Data Analyst | SQL & Spreadsheets | Data Validation & Reporting**
-📍 Nairobi, Kenya (GMT+3) · Open to remote roles with US clients
+I am a data analyst. I validate data, build SQL dashboards, and document metrics so finance and operations teams can trust their numbers.
 
-I turn raw, messy datasets into clear, documented reports that non-technical teams can trust. I have 3+ years of experience validating data, building repeatable reporting workflows, and documenting metric definitions for finance and operations teams.
+I work remotely from Nairobi (GMT+3). I am looking for remote data analyst roles with US companies.
 
----
+## What I do now
 
-## 🔍 What I do
+I am a Data Analyst at Enzi Motors. I work on revenue, swap, and energy data.
 
-- **Data validation:** consistency checks, error detection, and reconciling data against source records
-- **SQL reporting:** query writing and KPI dashboards across PostgreSQL, MySQL, and Metabase
-- **Dashboards and visualization:** Power BI, Tableau, Metabase
-- **Documentation:** metric definitions, data dictionaries, and assumption logs
-- **Remote work:** three years of independent work with clients in the US, Europe, and Asia
+- I run a monthly revenue audit in SQL. It reconciles recorded revenue against source data.
+- I build and maintain Metabase dashboards with defined KPIs for leadership.
+- I automate daily anomaly reports in Python. They flag data problems before they escalate.
+- I write down metric definitions and reporting logic so teams read the numbers the same way.
 
-## 🛠️ Tools
+## Problems I work on
 
-| Area | Tools |
-|---|---|
-| Spreadsheets | Microsoft Excel, Google Sheets |
-| Databases | SQL, PostgreSQL, MySQL, Metabase |
-| BI | Power BI, Tableau |
-| Programming | Python (Pandas, NumPy, scikit-learn) |
+- Numbers that do not match between finance and operations.
+- Messy datasets that need cleaning before anyone can use them.
+- Metrics that mean different things to different teams.
+- Reports that are rebuilt by hand every week.
+- Sales data that hides cost savings and growth opportunities.
 
-## 📈 Selected work
+Before Enzi Motors, I spent three years doing freelance analysis on Upwork. My clients were in the US, Europe, and Asia. I worked independently across time zones.
 
-- **Revenue audit framework (Enzi Motors):** designed a SQL variance detection model that reconciles recorded revenue against source data and supports monthly audit sign-off.
-- **Metric standardization (Enzi Motors):** standardized key metric definitions and documented reporting logic, reducing cross-team misinterpretation.
-- **E-commerce sales analysis:** analyzed $1.55M in total sales with Power BI and SQL, uncovering $59K in shipping cost savings.
-- **Competitor sales analysis:** used Power BI on multi-market sales data to find 65.7% year-over-year growth and pricing gaps that informed business recommendations.
-- **International client reporting (Upwork):** delivered data analysis and trend reporting using Python and SQL to validate data and identify actionable patterns.
+## Stack
 
-## 💼 Experience
+- **Data and SQL:** PostgreSQL, MySQL, Metabase
+- **Python:** Pandas, NumPy, scikit-learn
+- **BI:** Power BI, Tableau
+- **Spreadsheets:** Excel, Google Sheets
+- **Documentation:** metric definitions, data dictionaries, assumption logs
 
-- **Data Analyst,** Enzi Motors (Jan 2026 to present)
-- **Data Analyst & Scientist, Freelance,** Upwork (May 2022 to Jan 2025)
-- **Research Analyst,** KEPHIS (Jan 2019 to Apr 2022)
+## Selected results
 
-## 🎓 Education
+- Analyzed $1.55M in e-commerce sales and found $59K in shipping cost savings.
+- Analyzed multi-market sales data and found 65.7% year-over-year growth and pricing gaps.
 
-- Applied Data Science Certificate, WorldQuant University (2025)
-- Data Science Certificate, ALX Africa (2024)
-- Applied Artificial Intelligence Graduate Certificate, WorldQuant University (in progress)
-- BSc Biochemistry, University of Nairobi (2018)
+## Contact
 
----
-
-## 📫 Let's connect
-
-- **Email:** violetwanjiru4@gmail.com
-- **LinkedIn:** [linkedin.com/in/violet-mutuku](https://www.linkedin.com/in/violet-mutuku/)
+- Email: violetwanjiru4@gmail.com
+- LinkedIn: [linkedin.com/in/violet-mutuku](https://www.linkedin.com/in/violet-mutuku/)
 ---
 
 
