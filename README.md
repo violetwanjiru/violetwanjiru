@@ -53,19 +53,6 @@ I turn raw, messy datasets into clear, documented reports that non-technical tea
 - **LinkedIn:** [linkedin.com/in/violet-mutuku](https://www.linkedin.com/in/violet-mutuku/)
 ---
 
-### 🛠 Languages & Tools
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/violet-mutuku/)
 
 
 <!---
