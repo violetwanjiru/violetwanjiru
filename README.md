@@ -1,50 +1,38 @@
 # Violet Mutuku
 
-I am a data analyst. I validate data, build SQL dashboards, and document metrics so finance and operations teams can trust their numbers.
+Data Analyst, Enzi Motors | Nairobi, Kenya | East Africa Time (UTC+3)
 
-I work remotely from Nairobi (GMT+3). I am looking for remote data analyst roles with US companies.
+I own the analytics layer for an electric mobility company in Nairobi: swap operations, fleet and battery data, and revenue and payments data. I build it in SQL on PostgreSQL and deliver it through Metabase and Power BI.
 
-## What I do now
+Most of what I build answers one of three questions: where should we expand, why don't these two systems agree, and what should we do about it.
 
-I am a Data Analyst at Enzi Motors. I work on revenue, swap, and energy data.
+## What I work on
 
-- I run a monthly revenue audit in SQL. It reconciles recorded revenue against source data.
-- I build and maintain Metabase dashboards with defined KPIs for leadership.
-- I automate daily anomaly reports in Python. They flag data problems before they escalate.
-- I write down metric definitions and reporting logic so teams read the numbers the same way.
+**Service coverage analytics.** Coordinate-grid clustering of battery swap events into service zones, classified as fixed station, high-volume hub, regular mobile zone or occasional. Each zone gets a booth and battery requirement. The output people act on is the zone list: it took us from 5 swap stations to 15 active zones, 10 of them busy with no station, and the company began looking for buildings for permanent stations.
 
-## Problems I work on
+**Reconciliation.** Matching M-Pesa payment records (Kenya's mobile money system) against swap and revenue data. I built a callback table so both sources can be compared side by side, and I check every gap against an independent source before calling it a loss.
 
-- Numbers that do not match between finance and operations.
-- Messy datasets that need cleaning before anyone can use them.
-- Metrics that mean different things to different teams.
-- Reports that are rebuilt by hand every week.
-- Sales data that hides cost savings and growth opportunities.
+**Reporting that runs without me.** A daily mileage pipeline for funders where no dashboard was possible, fleet revenue dashboards, and two Metabase dashboards (Station Operations and Battery Operations) designed around an operations manager's Monday-morning decisions.
 
-Before Enzi Motors, I spent three years doing freelance analysis on Upwork. My clients were in the US, Europe, and Asia. I worked independently across time zones.
+**Sales dashboards.** Rep performance tracking against monthly revenue targets, built so a sales lead can see who is on track without asking for a report.
+
+**Ad hoc data requests.** Scoping vague questions into a clear brief, answering them from the source data, and stating what the numbers show, what they don't, and what to do next.
+
+**Cost auditing.** Compared a full year of electricity invoices against consumption, found the company had been overcharged, escalated it, and got it settled.
 
 ## Stack
 
-- **Data and SQL:** PostgreSQL, MySQL, Snowflake, Metabase
-- **Python:** Pandas, NumPy, scikit-learn
-- **BI:** Power BI, Tableau
-- **Spreadsheets:** Excel, Google Sheets
-- **Version control:** Git, GitHub
-- **Documentation:** metric definitions, data dictionaries, assumption logs
+SQL | PostgreSQL | Snowflake | BigQuery | Metabase | Power BI | Python | GitHub Actions
 
-## Selected results
+## Elsewhere
 
-- Analyzed $1.55M in e-commerce sales and found $59K in shipping cost savings.
-- Analyzed multi-market sales data and found 65.7% year-over-year growth and pricing gaps.
+- Power BI portfolio on electric vs fuel motorcycle taxi economics, using real Nairobi rider data
+- Graduate Certificate in Applied AI Fundamentals, WorldQuant University
+- Certifications: WorldQuant (Applied Data Science Lab), ALX Africa (Data Science)
+- Three years of freelance analytics for clients across the US, Europe and Asia
 
 ## Contact
 
-- Email: violetwanjiru4@gmail.com
 - LinkedIn: [linkedin.com/in/violet-mutuku](https://www.linkedin.com/in/violet-mutuku/)
-
-
-
-<!---
-violetwanjiru/violetwanjiru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- Email: violetwanjiru4@gmail.comthe Preview link to take a look at your changes.
 --->
