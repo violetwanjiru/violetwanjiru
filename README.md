@@ -6,6 +6,8 @@ I own the analytics layer for an electric mobility company in Nairobi: swap oper
 
 Most of what I build answers one of three questions: where should we expand, why don't these two systems agree, and what should we do about it.
 
+---
+
 ## What I work on
 
 **Service coverage analytics.** Coordinate-grid clustering of battery swap events into service zones, classified as fixed station, high-volume hub, regular mobile zone or occasional. Each zone gets a booth and battery requirement. The output people act on is the zone list: it took us from 5 swap stations to 15 active zones, 10 of them busy with no station, and the company began looking for buildings for permanent stations.
@@ -20,19 +22,23 @@ Most of what I build answers one of three questions: where should we expand, why
 
 **Cost auditing.** Compared a full year of electricity invoices against consumption, found the company had been overcharged, escalated it, and got it settled.
 
+---
+
 ## Stack
 
-SQL | PostgreSQL | Snowflake | BigQuery | Metabase | Power BI | Python | GitHub Actions
+`SQL` · `PostgreSQL` · `Snowflake` · `BigQuery` · `Metabase` · `Power BI` · `Python` · `GitHub Actions`
+
+---
 
 ## Elsewhere
-
+- LinkedIn: [linkedin.com/in/violet-mutuku](https://www.linkedin.com/in/violet-mutuku/)
+- Email: violetwanjiru4@gmail.com
+---
+## Beyond Work
 - Power BI portfolio on electric vs fuel motorcycle taxi economics, using real Nairobi rider data
 - Graduate Certificate in Applied AI Fundamentals, WorldQuant University
 - Certifications: WorldQuant (Applied Data Science Lab), ALX Africa (Data Science)
 - Three years of freelance analytics for clients across the US, Europe and Asia
 
-## Contact
 
-- LinkedIn: [linkedin.com/in/violet-mutuku](https://www.linkedin.com/in/violet-mutuku/)
-- Email: violetwanjiru4@gmail.comthe Preview link to take a look at your changes.
---->
+
