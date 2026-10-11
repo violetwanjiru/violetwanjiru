@@ -36,9 +36,9 @@ Most of what I build answers one of three questions: where should we expand, why
 ---
 ## Beyond Work
 - Power BI portfolio on electric vs fuel motorcycle taxi economics, using real Nairobi rider data
-- Graduate Certificate in Applied AI Fundamentals, WorldQuant University
+- Graduate Certificate in Applied AI Fundamentals, WorldQuant University - Ongoing
 - Certifications: WorldQuant (Applied Data Science Lab), ALX Africa (Data Science)
-- Three years of freelance analytics for clients across the US, Europe and Asia
+  
 
 
 
